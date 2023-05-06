@@ -5,6 +5,9 @@ A new Flutter project.
 this is a basic flutter and dart concept project .
 in this project tracking daily epenses and showing in list and chart form on screen.
 
+personal i am learning from udemy course i mentioned below in this project the instructor taught form level zero pf programming.
+course link :- https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps
+instructor :- Maximilian Schwarzmüller
 
 ## Getting Started
 
