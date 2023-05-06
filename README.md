@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+this is a basic flutter and dart concept project .
+in this project tracking daily epenses and showing in list and chart form on screen.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
